@@ -1,5 +1,5 @@
 // src/components/BMICalculator.jsx
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useTranslate, T } from '@tolgee/react';
 
 const BMICalculator = () => {
